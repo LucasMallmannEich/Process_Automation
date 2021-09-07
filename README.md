@@ -1,2 +1,2 @@
 # process_automation
-Código de projetos relacionados à automatização de processos.
+Este é um repositório que contém alguns de meus códigos relacionados à automatização de processos. 
