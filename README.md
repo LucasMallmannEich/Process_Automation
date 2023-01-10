@@ -1,2 +1,2 @@
 # process_automation
-Este é um repositório que contém alguns de meus códigos relacionados à automatização de processos. 
+This is a repository that contains some of my codes related to process automation.
